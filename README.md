@@ -1,3 +1,2 @@
 # portfolio
-Relocating my projects to this repository - your patience is appreciated!
-Demonstration of Data Analytics/Science skillset through multiple comprehensive projects. 
+The projects in this portfolio are examples of my data analysis work. Each project demonstrates some of the tools and techniques that I have learned on my data analysis journey thus far. 
